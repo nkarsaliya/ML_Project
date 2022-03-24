@@ -1,4 +1,4 @@
-# ML_Project
+# Machine Learning using impact of News Data on Stock Prices (Team A)
 
 Business Scenario:
 
