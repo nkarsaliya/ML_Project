@@ -1,4 +1,4 @@
-# Machine Learning - Impact of News on Stock Prices (Team A)
+# Machine Learning - Stock Price Fluctuation Based on News Data (Team A)
 
 Business Scenario:
 
