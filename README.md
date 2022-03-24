@@ -1,4 +1,4 @@
-# Machine Learning using impact of News Data on Stock Prices (Team A)
+# Machine Learning - Impact of News on Stock Prices (Team A)
 
 Business Scenario:
 
