@@ -1,8 +1,8 @@
 # News Data
 
-News data have been collected from New York Times web API and is vital to understand stock price patterns for Businesses in all major industries. 
+News data has been collected from the New York Times web API and is vital to understand stock price patterns for businesses in all major industries. 
 
-The news data include the following variables:
+The news data includes the following variables:
 
 1. Headline: Basic information about the news article​
 2. Date: Date that the article was published​
